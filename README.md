@@ -1,4 +1,4 @@
-<img width="300" alt="MolSearch Logo" src="https://github.com/Romaininguich/MolSearch/blob/main/Logo_MolSearch.png">
+<img width="800" alt="Logo_MolSearch" src="https://github.com/Romainguich/MolSearch/blob/main/Logo_MolSearch.png">
 
 # - MolSearch -
 
@@ -16,11 +16,11 @@ This tool enables users to compute key molecular properties, visualize 2D and 3D
 
 ### 👨‍🔬 Developers
 
-- Elisa Rubbia, Master's student in Molecular and Biological Chemistry at EPFL [![GitHub - erubbia](https://img.shields.io/badge/GitHub-erubbia-181717.svg?style=flat&logo=github)](https://github.com/erubbia)
+- Elisa Rubbia, Master's student in Molecular and Biological Chemistry at EPFL  [![GitHub - erubbia](https://img.shields.io/badge/GitHub-erubbia-181717.svg?style=flat&logo=github)](https://github.com/erubbia)
 
-- Romain Guichonnet, Master's student in Molecular and Biological Chemistry at EPFL [![GitHub - Romainguich](https://img.shields.io/badge/GitHub-Romainguich-181717.svg?style=flat&logo=github)](https://github.com/Romainguich)
+- Romain Guichonnet, Master's student in Molecular and Biological Chemistry at EPFL  [![GitHub - Romainguich](https://img.shields.io/badge/GitHub-Romainguich-181717.svg?style=flat&logo=github)](https://github.com/Romainguich)
 
-- Flavia Zabala Perez, Master's student in Molecular and Biological Chemistry at EPFL [![GitHub - Flaviazab](https://img.shields.io/badge/GitHub-Flaviazab-181717.svg?style=flat&logo=github)](https://github.com/Flaviazab)
+- Flavia Zabala Perez, Master's student in Molecular and Biological Chemistry at EPFL  [![GitHub - Flaviazab](https://img.shields.io/badge/GitHub-Flaviazab-181717.svg?style=flat&logo=github)](https://github.com/Flaviazab)
 
 
 # copier-liac
