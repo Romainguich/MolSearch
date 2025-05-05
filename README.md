@@ -1,4 +1,4 @@
-<image style="display: block; margin: auto;" largeur="600" alt="Logo_MolSearch" source="https://github.com/Romainguich/MolSearch/blob/main/Logo_MolSearch.png">
+<img style="display: block; margin: auto;" width="600" alt="Logo_MolSearch" src="https://github.com/Romainguich/MolSearch/blob/main/Logo_MolSearch.png?raw=true">
 
 # - MolSearch -
 
